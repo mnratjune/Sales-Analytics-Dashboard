@@ -1,17 +1,17 @@
 # Sales-Analytics-Dashboard
-** Objective ** 🎯
+**Objective** 🎯
 Kindly analyze the provided dataset, applying both descriptive analytics and extracting any meaningful insights. You are free to use any methodology, such as Python (for both analysis and visualization), SQL, machine learning, or dedicated visualization tools. Your analysis should include basic descriptive statistics as well as any additional insights you can derive.
 
 Bonus: For which additional fields (features) you think should be included in the dataset to gain more meaningful insights, please explain how it would enhance the analysis.
 
-** Data Preparation and Cleaning ** 🛠️
+**Data Preparation and Cleaning** 🛠️
 Before diving into visualization, we undertook significant data preparation and cleaning:
 
 Data Import: Imported the dataset into Power BI.
 Data Cleaning: Removed unnecessary columns, standardized column names, and merged tables.
 Handling Null Values: Identified and removed null values to ensure clean data for visualization.
 
-** Visualizations and Insights ** 📈
+**Visualizations and Insights** 📈
 Customer Overview: The majority of customers are women, making up 50.27%, and most are married. They are predominantly between the ages of 55-64, 
 with an average salary range of 10k-12k. Most work in professional occupations, hold a Bachelor's degree, and own their own homes.
 
