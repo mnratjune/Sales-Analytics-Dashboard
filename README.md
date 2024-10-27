@@ -1,5 +1,6 @@
 # Sales-Analytics-Dashboard
 **Objective** 🎯
+
 Kindly analyze the provided dataset, applying both descriptive analytics and extracting any meaningful insights. You are free to use any methodology, such as Python (for both analysis and visualization), SQL, machine learning, or dedicated visualization tools. Your analysis should include basic descriptive statistics as well as any additional insights you can derive.
 
 Bonus: For which additional fields (features) you think should be included in the dataset to gain more meaningful insights, please explain how it would enhance the analysis.
